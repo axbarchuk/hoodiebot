@@ -1,4 +1,4 @@
-package io.io.hoodiebot
+package io.hoodiebot
 
 import org.junit.Test
 import org.junit.runner.RunWith
